@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "My first Next JS app, a chatgpt one",
+  title: "My first Next JS app, a chatgpt clone",
   description: "ChatGPT, em-powered by NextJS",
 };
 
